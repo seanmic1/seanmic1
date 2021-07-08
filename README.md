@@ -7,6 +7,7 @@ I'm currently learning web dev, front-end and back-end (if I ever get to it).
 <li>HTML ✅
 <li>CSS ✅ (kinda)
 <li>JavaScript ❌
+<li>SQL ❌
 <li>R ❌
 <li>PHP ❌
 
