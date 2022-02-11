@@ -5,9 +5,9 @@ I'm currently learning web dev, front-end and back-end (if I ever get to it).
 <li>Python ✅
 <li>Java ✅
 <li>HTML ✅
-<li>CSS ✅ (kinda)
+<li>CSS ✅
 <li>JavaScript ❌
-<li>SQL ❌
+<li>SQL ✅
 <li>R ❌
 <li>PHP ❌
 
