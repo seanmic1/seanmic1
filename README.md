@@ -1,5 +1,5 @@
-Hi, I'm Sean. I'm currently studying Computer Science with a specialization in Data Science.
-I'm currently learning web dev, front-end and back-end (if I ever get to it).
+Hi, I'm Sean. I'm currently a student studying Computer Science with a specialization in Data Science.
+In my free time, I'm learning web dev, front-end and back-end.
 
 <ul>Skills I have:
   <li>Python ✅
@@ -9,5 +9,5 @@ I'm currently learning web dev, front-end and back-end (if I ever get to it).
   <li>JavaScript ✅
   <li>SQL ✅
   <li>Unity ✅
-  <li>C#
+  <li>C# ✅
 
