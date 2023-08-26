@@ -1,5 +1,5 @@
-Hi, I'm Sean. I'm currently a student studying Computer Science with a specialization in Data Science.
-In my free time, I'm learning web dev, front-end and back-end.
+Hi, I'm Sean. I'm a graduate of Monash University Malaysia with a Bachelor in Computer Science.
+In my free time, I'm learning web dev, front-end and back-end, and a bit of game dev as well.
 
 <ul>Skills I have:
   <li>Python ✅
